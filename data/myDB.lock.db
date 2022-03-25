@@ -1,0 +1,6 @@
+#FileLock
+#Fri Mar 25 11:08:04 GMT 2022
+server=192.168.1.147\:55169
+hostName=toms-mbp
+method=file
+id=17fc0c30c97b83e58a6b88a7ac2b75ea0bd630fae48
